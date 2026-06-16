@@ -174,7 +174,7 @@ color-sorting-part-assembly/
 
 | Factory I/O Overview | Quality Inspection & Assembly | Color Sorting Process |
 |---|---|---|
-| *(screenshot here)* | *(screenshot here)* | *(screenshot here)* |
+| ![nama](docs/images/overview.png) | https://youtu.be/RCQ-_9SGIMo?si=SZF84J3Bz39ZUnEy | ![nama](docs/images/sorting-part.png) |
 
 ---
 
